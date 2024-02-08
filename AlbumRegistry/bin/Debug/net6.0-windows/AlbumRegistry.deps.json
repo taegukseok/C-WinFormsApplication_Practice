@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AlbumRegistry/1.0.0": {
+        "dependencies": {
+          "Albums": "1.0.0"
+        },
+        "runtime": {
+          "AlbumRegistry.dll": {}
+        }
+      },
+      "Albums/1.0.0": {
+        "runtime": {
+          "Albums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlbumRegistry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Albums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

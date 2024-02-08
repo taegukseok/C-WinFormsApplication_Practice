@@ -1,0 +1,23 @@
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\bin\Debug\net6.0\Albums.deps.json
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\bin\Debug\net6.0\Albums.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\bin\Debug\net6.0\Albums.pdb
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.csproj.AssemblyReference.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.AssemblyInfoInputs.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.AssemblyInfo.cs
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.csproj.CoreCompileInputs.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\refint\Albums.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\Albums.pdb
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\Albums\obj\Debug\net6.0\ref\Albums.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\bin\Debug\net6.0\Albums.deps.json
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\bin\Debug\net6.0\Albums.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\bin\Debug\net6.0\Albums.pdb
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\Albums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\Albums.AssemblyInfoInputs.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\Albums.AssemblyInfo.cs
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\Albums.csproj.CoreCompileInputs.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\Albums.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\refint\Albums.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\Albums.pdb
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\Albums\obj\Debug\net6.0\ref\Albums.dll

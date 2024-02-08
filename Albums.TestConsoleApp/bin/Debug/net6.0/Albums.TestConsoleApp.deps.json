@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Albums.TestConsoleApp/1.0.0": {
+        "dependencies": {
+          "Albums": "1.0.0"
+        },
+        "runtime": {
+          "Albums.TestConsoleApp.dll": {}
+        }
+      },
+      "Albums/1.0.0": {
+        "runtime": {
+          "Albums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Albums.TestConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Albums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

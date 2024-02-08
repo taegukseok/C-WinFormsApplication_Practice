@@ -1,0 +1,5 @@
+1|The Beatles|White Album|1967
+2|The Beatles|Let It Be|1967
+3|The Clash|London Calling|
+4|Glenn Gould|The Goldberg Variations|
+6|George Harrison|All Things Must Pass|1970

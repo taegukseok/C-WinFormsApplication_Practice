@@ -1,0 +1,74 @@
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.exe
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.deps.json
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.runtimeconfig.json
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\bin\Debug\net6.0-windows\ref\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.AssemblyReference.cache
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.MainForm.resources
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.GenerateResource.cache
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfoInputs.cache
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfo.cs
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.CoreCompileInputs.cache
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\ref\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\peter\src\pcII\in-class-prep\week9-OOP-n-fileIO\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.genruntimeconfig.cache
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.exe
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.deps.json
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.runtimeconfig.json
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.AssemblyReference.cache
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.MainForm.resources
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.GenerateResource.cache
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfoInputs.cache
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfo.cs
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.CoreCompileInputs.cache
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\ref\AlbumRegistry.dll
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.genruntimeconfig.cache
+C:\peter\src\pcII\in-class-prep\final-code-album-registry\AlbumRegistry\obj\Debug\net6.0-windows\refint\AlbumRegistry.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.exe
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.deps.json
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.runtimeconfig.json
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.AssemblyReference.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.MainForm.resources
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.GenerateResource.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfoInputs.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfo.cs
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.CoreCompileInputs.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\refint\AlbumRegistry.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.genruntimeconfig.cache
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\ref\AlbumRegistry.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\Albums.dll
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\bin\Debug\net6.0-windows\Albums.pdb
+C:\peter\src\pcII\section2-tuesdays\week12\album-registry-w-class-library\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.CopyComplete
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.exe
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.deps.json
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.runtimeconfig.json
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\Albums.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\bin\Debug\net6.0-windows\Albums.pdb
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.AssemblyReference.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.MainForm.resources
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.GenerateResource.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfoInputs.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.AssemblyInfo.cs
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.CoreCompileInputs.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.csproj.CopyComplete
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\refint\AlbumRegistry.dll
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.pdb
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\AlbumRegistry.genruntimeconfig.cache
+C:\Users\taegu\OneDrive\Desktop\CPA\Level_2\PROG1965_ProgrammingConcept_II\Contents\Week_14\week12-album-registry-example (2) (1)\AlbumRegistry\obj\Debug\net6.0-windows\ref\AlbumRegistry.dll
